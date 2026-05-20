@@ -1,0 +1,6 @@
+{
+  "name": "豐足記帳",
+  "description": "一個精美、流暢且專業的個人記帳 App，支持收入支出管理、分類統計分析及 JSON 格式備份導入導出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
